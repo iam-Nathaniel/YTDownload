@@ -69,7 +69,7 @@ progessBar.pack(padx=10, pady=10)
 
 # download
 download = customtkinter.CTkButton(app, text='Download', command=startDownload)
-download.pack(padx=10, pady=20)
+download.pack(padx=20, pady=20)
 
 
 # Run App
