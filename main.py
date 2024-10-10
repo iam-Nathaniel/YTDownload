@@ -44,7 +44,7 @@ app.title('YouTube Downloader')
 
 
 #adding ui Components
-title = customtkinter.CTkLabel(app, text='Insert YT Link')
+title = customtkinter.CTkLabel(app, text='Insert YT Link',text_color='yellow')
 title.pack(padx=20, pady=20)
 
 
